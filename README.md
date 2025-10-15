@@ -1,2 +1,2 @@
-# Just-Chilling
-Yasin Talha Topcu, Esin , Umut Çakar, Soykan
+# Unreachable
+Yasin Talha Topcu, Zeynep Esin Yazıcı, Umut Çakar, Soykan Temel Orman
