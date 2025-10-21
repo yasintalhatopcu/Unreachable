@@ -1,0 +1,9 @@
+repos:
+- repo: local
+  hooks:
+  - id: apply-theme-injector
+    name: Apply theme injector
+    entry: python prototype/ui/apply_theme_to_all_html.py
+    language: system
+    files: ^prototype/.*\.html$
+    pass_filenames: false
